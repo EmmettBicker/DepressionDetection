@@ -2,6 +2,7 @@
 
  Emmett Bicker
 
+Note: This is a project for learning, please don't use this medically!
 
 **Motivation**
 
