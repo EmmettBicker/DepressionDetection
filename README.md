@@ -1,5 +1,4 @@
-# Good Health and Well Being: Screening for Depression on Twitter
-# Using a Sentiment Analysis Neural Network
+# Good Health and Well Being: Screening for Depression on Twitter Using a Sentiment Analysis Neural Network
 
  Emmett Bicker
 
