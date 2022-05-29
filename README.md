@@ -39,5 +39,5 @@ Looking forward, I plan to develop a web app UI for my project which will make m
 
 [^7]: Andrew G Reece, Christopher M Danforth. Instagram photos reveal predictive markers of depression. EPJ Data Science, Aug 8, 2017.
 
-[^Dataset]: Garg, Manas. Sentimental Analysis for Tweets. May 29, 2021. https://www.kaggle.com/datasets/gargmanas/sentimental-analysis-for-tweets. 
+[Dataset]: Garg, Manas. Sentimental Analysis for Tweets. May 29, 2021. https://www.kaggle.com/datasets/gargmanas/sentimental-analysis-for-tweets. 
 
